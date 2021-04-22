@@ -17,5 +17,8 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-typescript": "^6.0.0-alpha.1",
     "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7"
   }
 }
